@@ -27,8 +27,6 @@ public class Uso_de_la_libreria_math {
         
 //Respuesta al usuario 
         System.out.printf("La circunferencia del circulo con radio de %.2fm es de: %.2fm \nEl area del circulo con radio: %.2f es de: %.2f", 
-                radioCirculo, circunferencia, radioCirculo, areaCirculo);
-        
-    }//end main
-    
+                radioCirculo, circunferencia, radioCirculo, areaCirculo);   
+    }//end main   
 }//end class
